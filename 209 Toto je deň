@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>209</hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -17,14 +17,14 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Toto je deň,
+ /: Toto je deň,
  ktorý dal nám Pán,
  radujme sa,
- zaznej pieseň chvál.
-[V3]
+ zaznej pieseň chvál. :/
+[C]
  Jasaj v Pánovi.
-[V4]
- Chváľme Pána,
+[V2]
+ /: Chváľme Pána,
  On je prítomný,
  On je našich
- chvál hodný.</lyrics></song>
+ chvál hodný. :/</lyrics></song>

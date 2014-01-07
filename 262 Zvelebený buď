@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>262</hymn_number>
-  <presentation></presentation>
+  <presentation>V1 C1 C2 V2 C1 C2 B C2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -25,10 +25,12 @@
  aj keď v púšti sa nachádzam 
  aj keď kráčam sám v pustinách, 
  zvelebený Pán.
-[C]
+[C1]
  Každú milosť, čo mi dávaš, 
  vyspievam rád.
- Aj keď tma ma obopína ja zavolám:||
+ Aj keď tma ma obopína 
+ ja zavolám:
+[C2]
  Zvelebený buď, Pane náš, 
  zvelebený Pán,
  zvelebený buď, Pane náš, 
@@ -42,7 +44,7 @@
  aj na púti, čo ťažká je 
  aj keď obetu prinášam, 
  zvelebený Pán.
-[V3]
+[B]
  Máš právo dať aj vziať, 
  máš právo dať aj vziať 
  ja stále spievam rád, 

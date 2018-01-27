@@ -4,7 +4,7 @@
   <author></author>
   <copyright></copyright>
   <hymn_number>275</hymn_number>
-  <presentation></presentation>
+  <presentation>C V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -16,7 +16,7 @@
   <theme></theme>
   <tempo></tempo>
   <time_sig></time_sig>
-  <lyrics>[V]
+  <lyrics>[C]
  Svieť, Ježiš, svieť, 
  naplň zem slávou svojho Otca. 
  Príď, Duchu, príď,
@@ -24,4 +24,16 @@
  Prúď, rieka, prúď,
  zaplav národy láskou Boha. 
  Vrav k nám Slovom,
- Pane, daj svetlo nám.</lyrics></song>
+ Pane, daj svetlo nám.
+[V1]
+ Pane, svetlo Tvojej lásky
+ v svetle tmavom stále svieti.
+ Ježiš, svetlom zasvieť na nás,
+ pravdou svojou osloboď nás,
+ svieť na nás, svieť na nás.
+[V2]
+ Pane, žiara Tvojej slávy
+ nech naplní naše túžby.
+ Očisť, odpusť, posväť si nás,
+ láskou svojou premieňaj nás,
+ svieť na nás, svieť na nás.</lyrics></song>

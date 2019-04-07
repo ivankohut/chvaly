@@ -16,8 +16,8 @@
   <tempo></tempo>
   <time_sig></time_sig>
   <lyrics>[V1]
- Haleluja, haleluja,
- lebo Boh všemocný vládu má.
+ /: Haleluja, haleluja,
+ lebo Boh všemocný vládu má. :/
 [V2]
  Haleluja, svätý,
  svätý je Boh náš slávny.
@@ -28,5 +28,10 @@
  svätý je Boh náš slávny.
  Hoden je náš Pán,
  hoden je náš Pán,
- vládu má.</lyrics>
+ vládu má.
+[B]
+ /: Svätý, svätý, 
+ je Boh náš slávny. :/
+ Hoden je náš Pán, 
+ hoden je náš Pán.</lyrics>
   <hymn_number>2</hymn_number></song>

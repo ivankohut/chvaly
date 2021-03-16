@@ -13,3 +13,5 @@ Okrem tu uvedených piesní (skratka CH) môžete použiť piesne zo spevníkov 
 * [Detské piesne – D](https://github.com/ivankohut/detske-piesne)
 
 Zoznam piesní posielajte do soboty 12.00 hod. e-mailom na adresu projekcie ([projekcia@bjbpalisady.sk](mailto:projekcia@bjbpalisady.sk)) vo formáte názov/skratka spevníka, číslo piesne a názov piesne, napr. „CH 018 Budeme slúžiť“.
+
+**2021-09** Odstránenie piesní, ktoré sa nachádzajú v iných spevníkoch (aby nevznikali rôzne verzie jednej piesne).

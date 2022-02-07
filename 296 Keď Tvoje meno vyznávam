@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keď Tvoje meno vyznávam</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>296</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Na Tvojom slove túžim stáť.
  Väčší je Ten, kto vo mne vládne.
@@ -32,4 +19,5 @@
  na Tvojich krídlach sa vznášam.
 [B]
  Môj Pán, Ježiš!
- Môj Pán, Ježiš!</lyrics></song>
+ Môj Pán, Ježiš!</lyrics>
+</song>

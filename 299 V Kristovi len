@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>V Kristovi len</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>299</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  V Kristovi len ja nádej mám,
  silou a svetlom je môj Pán.
@@ -51,4 +38,5 @@
  Už žiadna moc, či divý prúd,
  ma nevyrvú viac z Jeho rúk.
  A keď raz príde smrti deň,
- Pán si ma privinie, to viem.</lyrics></song>
+ Pán si ma privinie, to viem.</lyrics>
+</song>

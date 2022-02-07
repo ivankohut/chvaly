@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Celý život</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>285</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Celý život chcem spievať Tebe, Pane,
  ospevovať budem Ťa, pokiaľ žijem.
@@ -28,4 +15,5 @@
  Celý život chcem slúžiť Tebe, Pane,
  počúvať Tvoj hlas budem, pokiaľ žijem.
  V živú obeť Ti dávam seba, Pane,
- na oltár Tvoj dávam sa, posväť si ma.</lyrics></song>
+ na oltár Tvoj dávam sa, posväť si ma.</lyrics>
+</song>

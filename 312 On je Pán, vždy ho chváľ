@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>On je Pán, vždy ho chváľ</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>312</hymn_number>
   <presentation>C V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  On je Pán, vždy ho chváľ,
  z celej duše chváľ
@@ -36,4 +23,5 @@
  Keď príde deň a môj život skončí
  a budem počuť ten známy hlas,
  ja s anjelmi do Tvojich komnát vkročím
- a novú pieseň budem spievať zas.</lyrics></song>
+ a novú pieseň budem spievať zas.</lyrics>
+</song>

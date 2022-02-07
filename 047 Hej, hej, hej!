@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Hej, hej, hej!</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>47</hymn_number>
   <presentation>V C V</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
  Hej, hej, hej!
  Pána Boha chváľ!
@@ -32,4 +19,5 @@
  Ž: Vypočuj môj výkrik o pomoc.||
  M: On je Pán.
  Ž: Srdce moje veľkú radosť má.
- On je moja nádej jediná.</lyrics></song>
+ On je moja nádej jediná.</lyrics>
+</song>

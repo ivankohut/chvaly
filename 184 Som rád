@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Som rád</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>184</hymn_number>
   <presentation>V1 C V1 C T</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Som rád, že si prišiel,
  neostal si iba bokom stáť.
@@ -36,4 +23,5 @@
  Šancu dá,
  veď On má ma rád.
  Šancu dá,
- veď On má ma rád.</lyrics></song>
+ veď On má ma rád.</lyrics>
+</song>

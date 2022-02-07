@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tak povstaň, Božie vojsko</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>199</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Tak povstaň, Božie vojsko,
  a slávu Bohu vzdaj.
@@ -40,4 +27,5 @@
  Tak stoj na svojom mieste
  a vezmi svoju zbraň.
  Nech chvála zaznie z našich úst,
- veď Ježiš je náš Pán.</lyrics></song>
+ veď Ježiš je náš Pán.</lyrics>
+</song>

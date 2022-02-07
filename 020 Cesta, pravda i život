@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Cesta, pravda i život</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>20</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  On zostúpil, aby nám
  ukázal cestu.
@@ -46,4 +33,5 @@
  Pred Ním sa skláňam,
  veď On je môj Pán.
 [R3]
- Ježiš je moja sloboda.</lyrics></song>
+ Ježiš je moja sloboda.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Haleluja, chváľme silného Boha</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>45</hymn_number>
   <presentation>V1 C V1 C B V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Haleluja,
  chváľme silného Boha
@@ -32,4 +19,5 @@
  Nech všetko, čo má dych,
  chváli Pána zástupov.
  Nik nie je podobný
- Kráľovi kráľov.</lyrics></song>
+ Kráľovi kráľov.</lyrics>
+</song>

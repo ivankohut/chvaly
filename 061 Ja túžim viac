@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ja túžim viac</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>61</hymn_number>
   <presentation>V C V B V</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
  Ja túžim viac,
  viac poznať Ťa chcem.
@@ -39,4 +27,4 @@
  Práve tam sa hojí
  každá z mojich rán.
  Ja Ťa mám tak veľmi rád.</lyrics>
-  <hymn_number>61</hymn_number></song>
+</song>

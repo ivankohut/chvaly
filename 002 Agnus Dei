@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Haleluja, lebo Boh všemocný vládu má</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>2</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  /: Haleluja, haleluja,
  lebo Boh všemocný vládu má. :/
@@ -30,8 +18,8 @@
  hoden je náš Pán,
  vládu má.
 [B]
- /: Svätý, svätý, 
+ /: Svätý, svätý,
  je Boh náš slávny. :/
- Hoden je náš Pán, 
+ Hoden je náš Pán,
  hoden je náš Pán.</lyrics>
-  <hymn_number>2</hymn_number></song>
+</song>

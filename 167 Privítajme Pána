@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Privítajme Pána</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>167</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Všade tam, kde sú ľudia zídení
  v mene Ježiš, v láske zjednotení.
@@ -27,4 +14,5 @@
  Privítajme Pána v tomto chráme,
  nech ho Božia sláva naplní.
  Svojmu Bohu spievame a hráme
- pieseň spasených.</lyrics></song>
+ pieseň spasených.</lyrics>
+</song>

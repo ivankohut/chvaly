@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pokoj jak rieka</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>150</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pokoj jak rieka, veľká láska.
  Vánok Tvojho Ducha
@@ -23,4 +10,5 @@
  Tvoj prameň prýšti radosť, lásku.
 [V2]
  Príď Duchu Svätý,
- nech Tvoj oheň horí v nás.</lyrics></song>
+ nech Tvoj oheň horí v nás.</lyrics>
+</song>

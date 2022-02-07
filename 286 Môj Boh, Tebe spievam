@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Môj Boh, Tebe spievam</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>286</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Môj Boh, Tebe spievam,
  môj Pán, Tebe slúžim,
@@ -25,4 +12,5 @@
  Získal si láskou život môj,
  šťastný som v Tvojom objatí.
  Kto je ako Ty, kto je ako Ty,
- môj Boh predivný?</lyrics></song>
+ môj Boh predivný?</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ty ma nesieš sám</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>335</hymn_number>
   <presentation>V1 C C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ty ma nesieš sám, Tebe veriť smiem.
  Ty mi pomáhaš, keď ma láka hriech.
@@ -33,4 +20,5 @@
  Ja chválu Tebe vzdám,
  aby Tvoj Duch prúdil mnou,
  aby uzdravený bol,
- kto sa skloní pred Tebou.</lyrics></song>
+ kto sa skloní pred Tebou.</lyrics>
+</song>

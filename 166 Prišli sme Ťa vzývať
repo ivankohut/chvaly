@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Prišli sme Ťa vzývať </title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>166</hymn_number>
   <presentation>V1 C V2 C B C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Do tmy na svet prišlo
  k nám Svetlo sveta.
@@ -43,4 +30,5 @@
 [B]
  /: Ja nemám slov to opísať,
  čo na kríži
- Ťa môj hriech stál. :/</lyrics></song>
+ Ťa môj hriech stál. :/</lyrics>
+</song>

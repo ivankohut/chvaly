@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pritúľ sa ku mne</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>338</hymn_number>
   <presentation>V1 V2 C V1 C B C C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  /: Pritúľ sa ku mne,
  ja čakám na teba. :/
@@ -49,4 +36,5 @@
  a nie si pre mňa dosť vzácny,
  dosť dobrý, dosť dokonalý.
  Nie zdraví potrebujú lekára,
- ale chorí. :/</lyrics></song>
+ ale chorí. :/</lyrics>
+</song>

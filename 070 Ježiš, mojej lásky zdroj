@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ježiš, mojej lásky zdroj</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>70</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
  Ježiš, mojej lásky zdroj,
  Ježiš, chcem byť navždy iba Tvoj.
@@ -27,4 +14,5 @@
  hoc svet by zažil pád.||
  Môj Majster, si Priateľ môj,
  chváliť budem Ťa,
- veď som už iba Tvoj.</lyrics></song>
+ veď som už iba Tvoj.</lyrics>
+</song>

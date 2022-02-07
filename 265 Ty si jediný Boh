@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ty si jediný Boh</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>265</hymn_number>
   <presentation>V1 C V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ty si jediný Boh, prvý a posledný,
  nikdy nebol a nebude viacej,
@@ -32,4 +19,5 @@
  svätý vo svojich skutkoch,
  múdry a dokonalý,
  nikdy nebol a nebude viacej,
- nikto ako si Ty.</lyrics></song>
+ nikto ako si Ty.</lyrics>
+</song>

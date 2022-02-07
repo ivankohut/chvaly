@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kríž je znakom spásy</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>294</hymn_number>
   <presentation>C V1 C V2 C V3 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  Kríž je znakom spásy,
  kríž ten drevený,
@@ -35,4 +22,5 @@
  Chcem aj ja niesť svoj kríž,
  ťarchu svojich vín,
  Krista vždy nasledovať,
- chcem byť stále s Ním.</lyrics></song>
+ chcem byť stále s Ním.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Svätý, svätý, svätý (On vládne celým vesmírom)</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>194</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  M: Svätý, svätý, svätý
  je náš Boh, všemocný Pán.
@@ -41,4 +28,5 @@
  M: Múdrosť moc a láska
  v Jeho mene plnosť má.
  Ž: Múdrosť moc a lásku
- náš Boh má.</lyrics></song>
+ náš Boh má.</lyrics>
+</song>

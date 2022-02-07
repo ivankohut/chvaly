@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Smiem tu stáť</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>180</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Smiem tu stáť,
  hľadieť na Tvoj majestát
@@ -36,7 +24,7 @@
 [V5]
  Úžasný, nádherný,
  Ty láskou svojou premieňaš nás,
-  keď nám zjavuješ svoj majestát.
+ keď nám zjavuješ svoj majestát.
 [V6]
  Smiem tu stáť,
  hľadieť na Tvoj majestát
@@ -45,4 +33,4 @@
  Ja smiem dnes stáť,
  túžbu Tvoju v srdci mám,
  vieru, lásku, nádej dať.</lyrics>
-  <hymn_number>180</hymn_number></song>
+</song>

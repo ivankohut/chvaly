@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Tvoja láska ma našla</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>211</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ježiš, dávno to už viem,
  že si verný Pán,
@@ -42,4 +29,5 @@
  kvôli Tebe mám
  (zmysel bytia mám),
  kvôli Tebe viem
- (viem, čo viem).</lyrics></song>
+ (viem, čo viem).</lyrics>
+</song>

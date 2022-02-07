@@ -3,7 +3,7 @@ Chvály - BJB Palisády
 
 Texty chválospevových piesní používaných v cirkevnom zbore BJB Palisády, Bratislava.
 
-## Informácie pre chválospevové skupiny   
+## Informácie pre chválospevové skupiny
 Okrem tu uvedených piesní (skratka CH) môžete použiť piesne zo spevníkov (názov – skratka):
 * [Oranžový spevníček – OS](https://github.com/ivankohut/oranzovy-spevnicek)
 * [Spevník kresťanských piesní – 400](https://github.com/ivankohut/400)

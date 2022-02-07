@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Skúste a presvedčte sa</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>177</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Skúste a presvedčte sa,
  aký dobrý je Pán.
@@ -35,4 +22,5 @@
  Aj vy sa presvedčíte,
  aký dobrý je Pán.
  Skúste a presvedčte sa,
- aký dobrý je Pán.</lyrics></song>
+ aký dobrý je Pán.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Spievaj so mnou</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>274</hymn_number>
   <presentation>C V1 C V2 C V3 C V4 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  Spievaj so mnou haleluja,
  spievaj ďakovania žalm.
@@ -37,4 +24,5 @@
 [V4]
  Za to, dnes že žije Pán,
  aby vždycky pri mne stál,
- z veľkej lásky nado mnou že bdie.</lyrics></song>
+ z veľkej lásky nado mnou že bdie.</lyrics>
+</song>

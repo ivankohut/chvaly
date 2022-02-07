@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Lásku, radosť, pokoj</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>332</hymn_number>
   <presentation>V C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
  Lásku, radosť, pokoj a spravodlivosť,
  vieru, nádej Pán Ježiš dal mi sám.
@@ -30,4 +17,5 @@
  budúcnosť Ti oddávam.||
  Teraz je čas žiť pre Teba,
  život svoj na oltár dávam,
- použi si nás, kráľov Kráľ.</lyrics></song>
+ použi si nás, kráľov Kráľ.</lyrics>
+</song>

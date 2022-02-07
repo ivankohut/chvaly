@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ku komu pôjdem</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>88</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ku komu pôjdem?
  Veď slová večného života máš!
@@ -48,4 +35,5 @@
  Na dlaniach svojich
  rúk vyryl si ma.
  Vieš, po čom túžim,
- vieš, kde to môžem nájsť.</lyrics></song>
+ vieš, kde to môžem nájsť.</lyrics>
+</song>

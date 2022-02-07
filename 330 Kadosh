@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kadosh</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>330</hymn_number>
   <presentation>V1 V2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V]
 .   a       d       a
 1/: Kadosh, kadosh, kadosh. :/
 2/: Svätý,  svätý,  svätý, :/
 .      G        e           a
 1/: Adonai,  Elohim, tse‘va‘ot. :/
-2/: je Boh, náš Pán,   všemohúci. :/</lyrics></song>
+2/: je Boh, náš Pán,   všemohúci. :/</lyrics>
+</song>

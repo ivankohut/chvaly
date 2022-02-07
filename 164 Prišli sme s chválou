@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Prišli sme s chválou</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>164</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Prišli sme s chválou
  pred kráľovský trón
@@ -33,4 +20,5 @@
  nech sláva Tvoja zostúpi.||
  Nech je toto miesto dnes
  svätyňou Tvojou,
- Tvoj ľud Ťa túži vyvýšiť.</lyrics></song>
+ Tvoj ľud Ťa túži vyvýšiť.</lyrics>
+</song>

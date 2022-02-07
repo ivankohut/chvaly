@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ku krížu ma veď</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>321</hymn_number>
   <presentation>V1 C1 C2 V2 C1 C2 B C2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Spasiteľ môj, len ako Ty vieš,
  utíš ma.
@@ -38,4 +25,5 @@
  Len Ty sám,
  len Ty sám,
  veď ma len Ty sám,
- veď ma len Ty sám.</lyrics></song>
+ veď ma len Ty sám.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Nádherný Boh</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>300</hymn_number>
   <presentation>V1 C V2 C B C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Úžasný, tak úžasný si v láske bez hraníc,
  Tvoj kríž mi dáva milosť sľúbenú.
@@ -34,4 +21,5 @@
  Dal uzrieť si mi všetky zázraky v nás,
  tou láskou si získal ma,
  veď nič na zemi
- sa Ti v kráse nevyrovná.</lyrics></song>
+ sa Ti v kráse nevyrovná.</lyrics>
+</song>

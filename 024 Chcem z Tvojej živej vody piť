@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Chcem z Tvojej živej vody piť</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>24</hymn_number>
   <presentation></presentation>
-  <ccli>28.04.06/1.0/CB Pardubice/JŠ</ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Chcem z Tvojej živej vody piť,
  chcem z Tvojho Slova stále žiť,
@@ -23,4 +11,4 @@
 [V2]
  Hľadám Tvoju tvár,
  daj sa mi nájsť.</lyrics>
-  <hymn_number>24</hymn_number></song>
+</song>

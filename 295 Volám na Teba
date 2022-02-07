@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Volám na Teba</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>295</hymn_number>
   <presentation>V1 V2 V3</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Volám na Teba,
  viem, že mi odpovieš,
@@ -42,4 +29,5 @@
  Moje kroky drž
  v šľapajach Tvojich,
  nech sa mi nestane,
- že cestou zablúdim.</lyrics></song>
+ že cestou zablúdim.</lyrics>
+</song>

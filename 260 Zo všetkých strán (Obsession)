@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zo všetkých strán (Obsession)</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>260</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Zo všetkých strán
  to na mňa dýcha,
@@ -49,4 +37,4 @@
  Príď, urob ma slobodným.
 [V10]
  A ja horím, Pane, pre Teba.</lyrics>
-  <hymn_number>260</hymn_number></song>
+</song>

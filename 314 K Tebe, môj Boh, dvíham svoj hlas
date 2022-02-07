@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>K Tebe, môj Boh, dvíham svoj hlas</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>314</hymn_number>
   <presentation>V1 C V2 C H B C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Len tvoja láska z prachu nás dvíha
  do Tvojej slávy z temnoty dní.
@@ -39,4 +26,5 @@
  Chválou znie,
  Svätý, Svätý, Svätý.
  Tvoje meno znie
- Svätý, Svätý, Svätý.</lyrics></song>
+ Svätý, Svätý, Svätý.</lyrics>
+</song>

@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pesničku Ti zaspievam</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>327</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <lyrics>[V1] 
+  <lyrics>[V1]
  Pesničku Ti zaspievam, haleluja,
  poviem Ti jak rád Ťa mám, haleluja.
 [V2]
@@ -24,4 +11,5 @@
  v Tebe spoločníka mám, haleluja.
 [V3]
  Túžim, aby mal Ťa rád, haleluja,
- každučký môj kamarát, haleluja.</lyrics></song>
+ každučký môj kamarát, haleluja.</lyrics>
+</song>

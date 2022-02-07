@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pane, buď vítaný</title>
-  <author></author>
-  <copyright></copyright>
+  <hymn_number>137</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Pane, buď vítaný.
  V tomto chráme Ťa vítam,
@@ -26,4 +14,4 @@
  srdcia dávame,
  Tebe klaniame sa,
  Ježiš, bývaj v nás.</lyrics>
-  <hymn_number>137</hymn_number></song>
+</song>

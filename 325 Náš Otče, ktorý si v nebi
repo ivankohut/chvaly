@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Náš Otče, ktorý si v nebi</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>325</hymn_number>
-  <presentation>V1 V2  V3 V1 V3 V4</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <presentation>V1 V2 V3 V1 V3 V4</presentation>
   <lyrics>[V1]
  Náš Otče, ktorý si v nebi,
  posväť sa meno Tvoje.
@@ -31,4 +18,5 @@
  Lebo Tvoje je kráľovstvo, sila i moc,
  Tvoja je sláva od vekov až naveky.
 [V4]
- Amen, amen, amen.</lyrics></song>
+ Amen, amen, amen.</lyrics>
+</song>

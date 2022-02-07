@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ježiš, Tvoja moc trvá stále</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>288</hymn_number>
   <presentation>V1 C B</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Ježiš, Tvoja moc trvá stále,
  Ježiš, Tvoje slovo vedie ma,
@@ -32,4 +19,5 @@
  nad vesmírom sám.
 [B]
  Vo viere túžim rásť,
- poznávať Teba viac.</lyrics></song>
+ poznávať Teba viac.</lyrics>
+</song>

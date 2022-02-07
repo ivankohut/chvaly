@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Zídení ako rodina</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>289</hymn_number>
   <presentation>V1 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Zídení ako rodina
  sme spolu pred Tebou.
@@ -25,4 +12,5 @@
  Nech znie Abba, Otče,
  vzácny si pre nás.
  Nech znie Abba, Otče,
- sväté meno máš.</lyrics></song>
+ sväté meno máš.</lyrics>
+</song>

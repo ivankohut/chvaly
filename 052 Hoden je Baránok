@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Hoden je Baránok</title>
-  <author></author>
-    <presentation></presentation>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>52</hymn_number>
   <lyrics>[V1]
  Hoden je Baránok
  zabitý vziať moc,
@@ -52,4 +48,4 @@
  hoden úcty sám.
  Moje srdce zaplesá,
  veľký Boh.</lyrics>
-  <hymn_number>52</hymn_number></song>
+</song>

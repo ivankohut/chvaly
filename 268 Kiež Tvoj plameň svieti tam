@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Kiež Tvoj plameň svieti tam</title>
-  <author></author>
   <hymn_number>267</hymn_number>
   <presentation>V1 C V2 C V3 C</presentation>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Kiež Tvoj plameň svieti tam,
  kde srdce mám,
@@ -43,4 +38,5 @@
  Nech nájdu túžbu spievať
  a Tebe chválu vzdať,
  pod Tvojím krížom
- nech smieme spolu stáť.</lyrics></song>
+ nech smieme spolu stáť.</lyrics>
+</song>

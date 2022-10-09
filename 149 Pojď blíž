@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pojď blíž</title>
-  <author></author>
-    <presentation></presentation>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>149</hymn_number>
+  <presentation></presentation>
   <lyrics>[V1]
  Pojď blíž, Tobě patřím celá
  a toužím po Tvém náručí
@@ -50,4 +42,4 @@
  vezmi srdce mé, veď mne dál
  chci víc Tě znát, chci víc s Tebou,
  chci konat vůli Tvou.</lyrics>
-  <hymn_number>149</hymn_number></song>
+</song>

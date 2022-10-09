@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Sláva Bohu</title>
-  <author></author>
-    <presentation></presentation>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>179</hymn_number>
   <lyrics>[V1]
  Sláva Bohu jedinému,
  sláva Tomu pravdivému.
@@ -50,4 +43,4 @@
 [V10]
  Ó, chvála a sláva,
  Tebe Ježiš, Kráľu náš!</lyrics>
-  <hymn_number>179</hymn_number></song>
+</song>

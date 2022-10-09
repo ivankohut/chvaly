@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pán je môj Pastier</title>
-  <author></author>
-    <presentation></presentation>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>142</hymn_number>
   <lyrics>[V1]
  Pán je môj Pastier,
  nič mi nechýba.
@@ -54,4 +50,4 @@
 [V14]
  Ježiš je môj Pastier,
  nič mi nechýba.</lyrics>
-  <hymn_number>142</hymn_number></song>
+</song>

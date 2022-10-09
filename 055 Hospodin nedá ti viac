@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Hospodin nedá ti viac</title>
-  <author></author>
-    <presentation>V1 C V2 C</presentation>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>55</hymn_number>
+  <presentation>V1 C V2 C</presentation>
   <lyrics>[V1]
  Hospodin nedá Ti viac,
  viac než dokážeš zniesť,
@@ -45,4 +38,4 @@
  Uvidíš veci veľké,
  milosť a požehnanie
  budú ťa sprevádzať.</lyrics>
-  <hymn_number>55</hymn_number></song>
+</song>

@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Boh nás pozýva</title>
-  <author></author>
   <hymn_number>333</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Boh nás pozýva:
  Vstúpte bez bázne,
@@ -45,4 +36,5 @@
  z Jeho prevzácnych slov,
  nesmieš pohŕdať
  zvesťou o láske,
- krvou Baránkovou!</lyrics></song>
+ krvou Baránkovou!</lyrics>
+</song>

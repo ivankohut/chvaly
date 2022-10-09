@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Ty sám učiníš zázrak</title>
-  <author></author>
-    <hymn_number>219</hymn_number>
-  <presentation></presentation>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>219</hymn_number>
   <lyrics>[V1]
  Ja sám čakám,
  môj Pán, Ty zmeň.
@@ -57,4 +46,5 @@
  Ježiš, drahý Ježiš,
  Ty zachrániš, Ty uzdravíš.
  Ja zostávam v Tebe,
- Ty sám učiníš zázrak.</lyrics></song>
+ Ty sám učiníš zázrak.</lyrics>
+</song>

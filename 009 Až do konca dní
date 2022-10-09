@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Až do konca dní</title>
-  <author></author>
-    <presentation>V1 V2 C1 C2 C3 V3 C1 C2 C3 C2 C4</presentation>
-  <theme></theme>
+  <hymn_number>9</hymn_number>
+  <presentation>V1 V2 C1 C2 C3 V3 C1 C2 C3 C2 C4</presentation>
   <lyrics>[V1]
  Dnes dávaš všetko, čo máš.
  Našiel si lásku a tak ju stráž.
@@ -41,6 +40,5 @@
  má k človeku blízko.
  S Ním nikdy nie si sám
  až do konca dní,
- až do konca dní.
-</lyrics>
-  <hymn_number>9</hymn_number></song>
+ až do konca dní.</lyrics>
+</song>

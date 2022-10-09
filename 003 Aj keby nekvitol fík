@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Aj keby nekvitol fík</title>
-  <author></author>
-    <hymn_number>3</hymn_number>
+  <hymn_number>3</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Aj keby nekvitol fík,
  aj keby nerodila zem,
@@ -39,4 +29,5 @@
  Keď sa zdá, že to neskončí,
  slzy sa tlačia do očí,
  viem, že stojíš blízko tých,
- čo v Teba dúfajú.</lyrics></song>
+ čo v Teba dúfajú.</lyrics>
+</song>

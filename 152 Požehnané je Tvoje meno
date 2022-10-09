@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Požehnané je Tvoje meno</title>
-  <author></author>
-    <presentation></presentation>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
+  <hymn_number>152</hymn_number>
   <lyrics>[V1]
  Požehnané je Tvoje meno
  v zemi milosti,
@@ -56,4 +49,4 @@
  Ty si dal a vzal si späť.
  Moje srdce spievať chce.
  Tvoje meno sväté je!</lyrics>
-  <hymn_number>152</hymn_number></song>
+</song>

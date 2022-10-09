@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keď vyslovíš slovo</title>
-  <author></author>
   <hymn_number>304</hymn_number>
   <presentation>V1 C V1 C B C</presentation>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Keď vyslovíš slovo,
  stane sa naveky vekov.
@@ -42,4 +31,5 @@
  smiem nazývať.||
  Ďakujem, že pred Tebou
  môžem tu stáť.
- Ďakujem, chcem vyznávať.</lyrics></song>
+ Ďakujem, chcem vyznávať.</lyrics>
+</song>

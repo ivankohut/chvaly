@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Staň se mou vizí</title>
-  <author></author>
   <hymn_number>315</hymn_number>
   <presentation>V1 V2 V3 V4</presentation>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Staň se mou vizí,|buď snem, který mám,
  pro který chci žít|a svůj život dám,||
@@ -33,4 +22,5 @@
  Nehledám slávu|či bohatství lesk,
  Ty jsi můj přítel|a Nejvyšší kněz.||
  Až jednou vrátíš se|v slávě své k nám,
- k sobě mne zavoláš,|Tvůj hlas už znám.</lyrics></song>
+ k sobě mne zavoláš,|Tvůj hlas už znám.</lyrics>
+</song>

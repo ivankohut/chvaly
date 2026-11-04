@@ -16,3 +16,8 @@ Zoznam piesní posielajte do soboty 12.00 hod. e-mailom na adresu projekcie (<te
 vo formáte názov piesne, názov/skratka spevníka a číslo piesne, napr. „Budeme slúžiť (Chvály 18)“ alebo „Boh pokoj náš - Oranžový spevníček 6“.
 
 **2021-09** Odstránenie piesní, ktoré sa nachádzajú v iných spevníkoch (aby nevznikali rôzne verzie jednej piesne).
+
+## Information for maintainers
+
+Once a change is pushed to this repository, a GitHub Action is triggered. It downloads _opensong-print_ Java application and executes it, which generates HTML files of all songs stored in this repository.
+The generated files are then uploaded to a web page which is stored in `ivankohut.github.io` repository in `/projekcia/chvaly` subfolder.
